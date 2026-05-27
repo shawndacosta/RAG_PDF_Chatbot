@@ -36,7 +36,7 @@ streamlit run app.py
 
 1. [I. How it works 🔍](#i-how-it-works-)
 2. [II. Architecture 🏗️](#ii-architecture-)
-3. [III. Interface 🖥️](#iii-interface--)
+3. [III. Interface 🖥️](#iii-interface-)
 4. [IV. Conclusion ✔️](#iv-conclusion-)
 
 # I. How it Works 🔍

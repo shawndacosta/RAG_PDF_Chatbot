@@ -35,9 +35,9 @@ streamlit run app.py
 ## 📑 Table of Contents
 
 1. [I. How it works 🔍](#i-how-it-works-)
-2. [II. Architecture 🏗️](#ii-architecture-)
-3. [III. Interface 🖥️](#iii-interface-)
-4. [IV. Conclusion ✔️](#iv-conclusion-)
+2. [II. Architecture 🏗️](#ii-architecture-%EF%B8%8F)
+3. [III. Interface 🖥️](#iii-interface-%EF%B8%8F)
+4. [IV. Conclusion ✔️](#iv-conclusion-%EF%B8%8F)
 
 # I. How it Works 🔍
 

@@ -85,7 +85,7 @@ The Streamlit interface allows users to:
 
 # IV. Conclusion ✔️
 
-This project demonstrates a complete **RAG pipeline** using state-of-the-art tools. The chatbot can answer questions about any PDF document in any language, making it applicable to a wide range of use cases — legal documents, financial reports, medical records, technical documentation, and more.
+This project demonstrates a complete **RAG pipeline** using state-of-the-art tools. The chatbot can answer questions about any PDF document in any language, making it applicable to a wide range of use cases : legal documents, financial reports, medical records, technical documentation, and more.
 
 ## Possible Improvements
 
